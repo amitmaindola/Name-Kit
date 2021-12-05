@@ -1,0 +1,24 @@
+.name-container{
+    font-size: 24px;
+    background-color: #282d4f;
+    margin: 12px 20px;
+    box-shadow: 0px 0px 5px rgba(2eee55,255,255,0.5);
+    border-radius: 10px;
+    padding: 5px;
+    transition:  background-color 0.35s;
+}
+.name-container:hover{
+    background-color: #4a5079;
+    box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.3);
+}
+.name{
+    margin: 10px 20px;
+    min-width: 150px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    text-decoration: none;
+    text-decoration: none;
+    color: #e4aae4;
+}

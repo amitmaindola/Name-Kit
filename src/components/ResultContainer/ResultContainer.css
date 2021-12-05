@@ -1,0 +1,8 @@
+.results-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 40px;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
